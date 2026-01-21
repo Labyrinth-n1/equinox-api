@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+google-generativeai
+pydantic
+google-genai
+python-multipart
+numpy
+torch
+torchaudio
+speechbrain
+assemblyai
+huggingface_hub
+pydub   
+ffmpeg
+
